@@ -1,7 +1,7 @@
 diff --git a/src/nnn.h b/src/nnn.h
 index cb4d6d69..5de405d0 100644
---- a/src/nnn.h
-+++ b/src/nnn.h
+--- a/nnn/src/nnn.h
++++ b/nnn/src/nnn.h
 @@ -130,18 +130,18 @@ struct key {
  static struct key bindings[] = {
  	/* Back */
